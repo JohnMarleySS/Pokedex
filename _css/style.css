@@ -51,3 +51,10 @@ p {
     align-items: center;
     flex-wrap: wrap;
 }
+
+.tabela {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 50px;
+}
